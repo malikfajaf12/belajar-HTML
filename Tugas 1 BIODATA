@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas 1 Biodata</title>
+</head>
+<body>
+    <div>
+        <img src="" alt="150">
+    </div>
+    <div>
+        <h1>BIODATA</h1>
+        <p>Name : Muhammad Malik Fajar</p>
+        <p>Father's Name : Sudarianto</p>
+        <P>Mobile : +62895392350069</P>
+        <p>Email id : fajarkencuer12@gmail.Com</p>
+        <p>Gender: male</p>
+        <p>Marital Status : not married yet</p>
+        <p>Nationality : Indonesia</p>
+        <p>Date of Birth : 12 june 2003</p>
+        <p>Religion : Islam</p>
+        <p>Languages Konwn  : Indonesia, Jawa, inggris</p>
+    </div>
+    <div>
+        <h3>Education</h3>
+        <table border="1" cellspacing="0" cellpadding="5">
+            <tr>
+                <th></th>
+                <th>institute Name</th>
+                <th>Year of Passing</th>
+                <th>Marks Precentage</th>
+            </tr>
+            <tr>
+                <td>Elementary</td>
+                <td>SDN ngablak</td>
+                <td>2009-2015</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Junior high school</td>
+                <td>SMPN 3 Banguntapan</td>
+                <td>2015-2018</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>high school</td>
+                <td>SMKN 1 Peret</td>
+                <td>2018-2021</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            
+        </table>
+    </div>
+    <div>
+        <h3>Experience</h3>
+        <table border="1" cellspacing="0" cellpadding="5">
+            <tr>
+                <td>NO</td>
+                <td>Company Name</td>
+                <td>Position</td>
+                <td>Working Periode</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>PT. Sangsaka Surya Karunia</td>
+                <td>Teknisi Fiber Optick</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Toko Azqza</td>
+                <td>Kasir</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>IMO</td>
+                <td>Sortir barang</td>
+                <td></td>
+            </tr>
+        </table>
+    </div>
+    <div>
+        <p>address : Jlamprang Kidul rt02, Jambidan, Banguntapan, Bantul </p>
+    </div>
+    <div>
+        <h4><u>Declaration</u></h4>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit sapiente unde nostrum debitis dolorum pariatur, error reprehenderit sed ipsa et rem qui officia magnam veritatis aut totam illum optio quod.</p>
+    </div>
+    
+</body>
+</html>
